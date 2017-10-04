@@ -1,2 +1,2 @@
 # web_scraping
-Web scraping in Node.js
+This is a Web scraping application written in Node.js.  
